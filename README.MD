@@ -1,22 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Syed%20Muhammad%20Rizvi&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20ML%20Engineer&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Syed%20Muhammad%20Rizvi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20ML%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=64FFDA&center=true&vCenter=true&width=650&lines=Building+production-ready+web+platforms.;Designing+end-to-end+ML+pipelines.;Engineering+scalable+cloud-native+systems.;Turning+ideas+into+deployed+products." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=64FFDA&center=true&vCenter=true&width=700&lines=Building+production-ready+web+platforms.;Designing+end-to-end+ML+pipelines.;Engineering+scalable+cloud-native+systems.;Turning+ideas+into+deployed+products." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/syed-muhammad-rizvi-477b85234"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/syed-muhammad-rizvi-477b85234">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 &nbsp;
-<a href="https://portfolio-website-vert-five-15.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://portfolio-website-vert-five-15.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 &nbsp;
-<a href="mailto:syedrizvi041@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:syedrizvi041@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 &nbsp;
-<a href="https://drive.google.com/file/d/1H7ycwBP9a5nB9sFgPP6aWRVDigvCDLZm/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1H7ycwBP9a5nB9sFgPP6aWRVDigvCDLZm/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
 
 <br/><br/>
 
@@ -119,7 +127,7 @@ I'm a Computer Science undergrad who builds things that go to production — not
 A production-grade quiz system engineered from the ground up — not a tutorial clone. Implements full role-based access control, a real admin dashboard, and a mobile-first UI built for performance. Every feature is designed with real users in mind: instant feedback, accessible components, and zero fluff.
 
 | Concern | Implementation |
-|---------|---------------|
+|---------|----------------|
 | Authentication & RBAC | Supabase Auth with Admin / User role separation and protected route guards |
 | Admin Control Panel | Full quiz lifecycle management — create, edit, publish, and track results |
 | Frontend Architecture | React + TypeScript with Tailwind CSS; Vite for sub-second HMR |
@@ -138,7 +146,7 @@ A production-grade quiz system engineered from the ground up — not a tutorial 
 Not a mock — a real cloud storage system with JWT-based authentication, type-safe database operations via Prisma ORM, and a complete file lifecycle. Upload, preview, full-text search, soft delete, and restore. Designed with a scalable backend architecture that can grow beyond single-tenant use.
 
 | Concern | Implementation |
-|---------|---------------|
+|---------|----------------|
 | Authentication | Stateless JWT with refresh token rotation and protected API routes |
 | File Lifecycle | Upload → Instant Preview → Search → Soft Delete → One-click Restore |
 | Database Layer | PostgreSQL + Prisma ORM for fully type-safe, migration-tracked queries |
@@ -157,7 +165,7 @@ Not a mock — a real cloud storage system with JWT-based authentication, type-s
 A full-stack AQI intelligence platform built around a modular, cloud-deployment-ready architecture. The FastAPI backend handles data ingestion and processing with clean separation of concerns; the Next.js frontend delivers interactive visualization. The pipeline is architected to slot in ML-based AQI forecasting as a drop-in module — no refactor required.
 
 | Concern | Implementation |
-|---------|---------------|
+|---------|----------------|
 | Backend Architecture | Modular FastAPI service with clean router / service / model separation |
 | Data Pipeline | Ingestion → Processing → Structured storage → Live visualization |
 | Frontend | Next.js + React with interactive, Tailwind-based analytics dashboards |
@@ -176,7 +184,7 @@ A full-stack AQI intelligence platform built around a modular, cloud-deployment-
 End-to-end ML system for automated pothole detection from road surface imagery. Built a custom CNN architecture in TensorFlow/Keras, with a full preprocessing and data augmentation pipeline, training loop, and quantitative evaluation suite. Ships with a desktop GUI for real-time inference — fully self-contained with no external dependencies.
 
 | Concern | Implementation |
-|---------|---------------|
+|---------|----------------|
 | Model Architecture | Custom CNN built from scratch — no pretrained backbone |
 | Data Pipeline | Image preprocessing + augmentation for improved generalization |
 | Evaluation | Precision, Recall, F1-Score with confusion matrix visualization |
@@ -195,24 +203,27 @@ End-to-end ML system for automated pothole detection from road surface imagery. 
 <br/>
 
 <table width="100%">
-<tr>
-<td width="100" align="center">
-<br/>
-<strong>RESEARCH</strong><br/>
-<sub>ISED 2025 · NIT Raipur</sub>
-<br/><br/>
-</td>
-<td>
-<br/>
-<strong>"Intelligent Home Automation System with Weather Forecasting and Alert Integration"</strong><br/>
-Peer-reviewed paper presented at the International Symposium on Electronics & Devices (ISED 2025), hosted at <em>National Institute of Technology, Raipur</em>.
-<br/><br/>
-</td>
-</tr>
-<tr>
-<td width="100" align="center">
+  <tr>
+    <td width="120" align="center">
+      <br/>
+      <strong>📄 RESEARCH</strong><br/>
+      <sub>ISED 2025 · NIT Raipur</sub>
+      <br/><br/>
+    </td>
+    <td>
+      <br/>
+      <strong>"Intelligent Home Automation System with Weather Forecasting and Alert Integration"</strong><br/><br/>
+      Peer-reviewed paper presented at the <em>International Symposium on Electronics &amp; Devices (ISED 2025)</em>, hosted at <strong>National Institute of Technology, Raipur</strong>.
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
 <br/>
 
+---
+
+<br/>
 
 ## ❯ Education
 
@@ -222,6 +233,28 @@ Peer-reviewed paper presented at the International Symposium on Electronics & De
 SRM University, Kattankulathur, Chennai &nbsp;·&nbsp; `Aug 2023 – May 2027` &nbsp;·&nbsp; **GPA: 9.12 / 10.0**
 
 > Data Structures & Algorithms &nbsp;·&nbsp; Database Management Systems &nbsp;·&nbsp; Operating Systems &nbsp;·&nbsp; Computer Networks &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Artificial Intelligence &nbsp;·&nbsp; Software Engineering
+
+<br/>
+
+---
+
+<br/>
+
+## ❯ GitHub Stats
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syedd18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedd18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syedd18&theme=tokyonight&hide_border=true&background=0d1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" alt="GitHub Streak"/>
+
+</div>
 
 <br/>
 
