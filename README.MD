@@ -214,8 +214,6 @@ Peer-reviewed paper presented at the International Symposium on Electronics & De
 <br/>
 
 
-<br/>
-
 ## ❯ Education
 
 <br/>
