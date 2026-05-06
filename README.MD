@@ -212,36 +212,7 @@ Peer-reviewed paper presented at the International Symposium on Electronics & De
 <tr>
 <td width="100" align="center">
 <br/>
-<strong>🏆 FINALIST</strong><br/>
-<sub>NSSC Hackathon</sub>
-<br/><br/>
-</td>
-<td>
-<br/>
-<strong>NSSC College-Level Hackathon — Finalist</strong><br/>
-Competed among top engineering teams across SRM University.
-<br/><br/>
-</td>
-</tr>
-<tr>
-<td width="100" align="center">
-<br/>
-<strong>🇮🇳 SELECTED</strong><br/>
-<sub>Smart India Hackathon</sub>
-<br/><br/>
-</td>
-<td>
-<br/>
-<strong>Smart India Hackathon — Internal Selection Round</strong><br/>
-Cleared competitive internal rounds; selected to represent SRM University at the national level.
-<br/><br/>
-</td>
-</tr>
-</table>
 
-<br/>
-
----
 
 <br/>
 
