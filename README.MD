@@ -1,288 +1,301 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Syed%20Muhammad%20Rizvi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20ML%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Production-Grade+Web+Platforms;Designing+End-to-End+ML+Pipelines;Engineering+Scalable+Cloud-Native+Systems;Turning+Ideas+into+Deployed+Products" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Syed%20Muhammad%20Rizvi&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20ML%20Engineer&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- Social Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/syed-muhammad-rizvi-477b85234">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://portfolio-website-vert-five-15.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:syedrizvi041@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1H7ycwBP9a5nB9sFgPP6aWRVDigvCDLZm/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-Download-16A34A?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=64FFDA&center=true&vCenter=true&width=650&lines=Building+production-ready+web+platforms.;Designing+end-to-end+ML+pipelines.;Engineering+scalable+cloud-native+systems.;Turning+ideas+into+deployed+products." alt="Typing SVG" />
+</a>
 
-<!-- Profile Views & Stats -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Syedd18&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Syedd18?label=Followers&style=flat-square&color=0ea5e9" alt="Followers"/>
-</p>
+<br/><br/>
 
-</div>
-
----
-
-## `$ whoami`
-
-```yaml
-Name     : Syed Muhammad Rizvi
-Role     : CS Undergraduate → Software Engineer & ML Engineer
-University: SRM University, Kattankulatham, Chennai
-GPA      : 9.12 / 10.0
-Batch    : 2023 – 2027
-Focus    : Full-Stack Development · Machine Learning · Cloud-Native Systems
-Status   : Open to SWE & AI/ML Internships
-```
-
-> Computer Science undergraduate specializing in Information Technology, with hands-on experience building **production-ready web platforms** and **end-to-end ML pipelines**. I care about clean architecture, system performance, and shipping products that actually work — not just prototypes.
-
----
-
-## ⚡ Tech Arsenal
-
-<details open>
-<summary><b>Languages</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Machine Learning & Data Science</b></summary>
-<br>
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logo=xgboost&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Frontend</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Backend & APIs</b></summary>
-<br>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=api&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Databases, Cloud & DevOps</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [QuizPro](https://github.com/Syedd18/QuizPro)
-**Professional Online Quiz Platform**
-
-A production-grade online quiz system with secure authentication, role-based access control (RBAC), and a full admin control panel. Engineered with a mobile-first, accessible UI and optimized for performance at scale.
-
-**Key Features:**
-- 🔐 Secure Auth with role-based access (Admin / User)
-- 📊 Admin dashboard with real-time quiz management
-- 📱 Mobile-first, accessible UI components
-- ⚡ Vite-powered lightning-fast frontend
-
-**Stack:** `React` `TypeScript` `Tailwind CSS` `Vite` `Supabase`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Syedd18/QuizPro)
-[![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel)](https://quiz-pro1-three.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ [CloudDrive](https://github.com/Syedd18/CloudDrive)
-**Secure Cloud Storage Platform**
-
-A production-ready cloud storage application inspired by Google Drive. Features JWT-based authentication, scalable backend architecture, and full file lifecycle management — upload, preview, search, and restore.
-
-**Key Features:**
-- 🔑 JWT Authentication with protected routes
-- 📁 Full file lifecycle: Upload → Preview → Delete → Restore
-- 🔍 Full-text file search
-- 🗄️ Type-safe DB operations via Prisma ORM
-
-**Stack:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Prisma`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Syedd18/CloudDrive)
-[![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel)](https://cloud-drive-gamma.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌫️ [SkyLy](https://github.com/Syedd18/SkyLy)
-**Air Quality Intelligence Platform**
-
-A full-stack AQI intelligence platform for ingesting, processing, and visualizing air quality data. Built with a modular backend–frontend architecture, cloud-deployment ready, with scope for future ML-based AQI forecasting.
-
-**Key Features:**
-- 📡 Real-time AQI data ingestion & processing
-- 📈 Interactive data visualization dashboards
-- 🏗️ Modular FastAPI backend architecture
-- 🔭 ML forecasting pipeline (upcoming)
-
-**Stack:** `Python` `FastAPI` `Next.js` `React` `Tailwind CSS`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Syedd18/SkyLy)
-[![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel)](https://skyly01.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛣️ [Pothole Detection System](https://github.com/Syedd18/pothole-prediction-using-cnn)
-**CNN-Based Computer Vision System**
-
-An automated pothole detection system powered by Convolutional Neural Networks. Processes road surface images through a complete ML pipeline — from preprocessing and augmentation to model training, evaluation, and real-time desktop inference.
-
-**Key Features:**
-- 🧬 Custom CNN architecture with TensorFlow/Keras
-- 🖼️ Image preprocessing & data augmentation pipeline
-- 📊 Model evaluation with precision, recall & F1 metrics
-- 🖥️ Desktop GUI for real-time inference
-
-**Stack:** `Python` `CNN` `TensorFlow` `Keras`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Syedd18/pothole-prediction-using-cnn)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Research & Achievements
-
-<table>
-<tr>
-<td>📄</td>
-<td><b>Published Research Paper</b><br/><i>"Intelligent Home Automation System with Weather Forecasting and Alert Integration"</i><br/>Presented at <b>ISED 2025</b> — National Institute of Technology (NIT), Raipur</td>
-</tr>
-<tr>
-<td>🥈</td>
-<td><b>Finalist — NSSC College-Level Hackathon</b><br/>SRM University — Competed among top engineering teams</td>
-</tr>
-<tr>
-<td>🇮🇳</td>
-<td><b>Participant — Smart India Hackathon (Internal Selection Round)</b><br/>Selected through internal rounds to represent college at SIH</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Syedd18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
+<a href="https://www.linkedin.com/in/syed-muhammad-rizvi-477b85234"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedd18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+<a href="https://portfolio-website-vert-five-15.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:syedrizvi041@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://drive.google.com/file/d/1H7ycwBP9a5nB9sFgPP6aWRVDigvCDLZm/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Syedd18&label=Profile+Views&color=64FFDA&style=flat-square&abbreviated=true"/>
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syedd18&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syedd18&theme=tokyo-night&hide_border=true&area=true" width="90%" alt="Contribution Graph"/>
-</div>
+<br/>
 
 ---
 
-## 🎓 Education
+<br/>
 
-| Degree | Institution | GPA | Duration |
-|--------|------------|-----|----------|
-| **B.Tech — Computer Science (IT)** | SRM University, Kattankulatham, Chennai | **9.12 / 10.0** | Aug 2023 – May 2027 |
+## ❯ About
 
-**Relevant Coursework:** Data Structures & Algorithms · Database Management Systems · Operating Systems · Computer Networks · Machine Learning · Artificial Intelligence · Software Engineering
-
----
-
-## 🧭 Areas of Interest
-
-```
-┌─────────────────────┬──────────────────────┬──────────────────────┐
-│  Machine Learning   │  Full-Stack Dev      │  Data Engineering    │
-├─────────────────────┼──────────────────────┼──────────────────────┤
-│  Cloud-Native Sys   │  System Design       │  Computer Vision     │
-└─────────────────────┴──────────────────────┴──────────────────────┘
+```typescript
+const syed = {
+  role      : "CS Undergraduate → Software Engineer & ML Engineer",
+  university: "SRM University, Kattankulathur, Chennai",
+  gpa       : "9.12 / 10.0",
+  batch     : "2023 – 2027",
+  domains   : ["Full-Stack Development", "Machine Learning", "Cloud-Native Systems"],
+  status    : "🟢 Open to SWE & AI/ML Internships",
+  belief    : "Ship fast. Build right. Iterate always.",
+};
 ```
 
+I'm a Computer Science undergrad who builds things that go to production — not just demos. My work spans full-stack platforms with real auth flows and database design, to ML pipelines trained on real data. I care about clean architecture, performance under load, and code that the next developer can actually read.
+
+<br/>
+
 ---
 
-## 📬 Let's Connect
+<br/>
+
+## ❯ Tech Stack
 
 <div align="center">
 
-| Channel | Link |
-|---------|------|
-| 📧 **Email** | [syedrizvi041@gmail.com](mailto:syedrizvi041@gmail.com) |
-| 🌐 **Portfolio** | [portfolio-website-vert-five-15.vercel.app](https://portfolio-website-vert-five-15.vercel.app/) |
-| 💼 **LinkedIn** | [linkedin.com/in/syed-muhammad-rizvi-477b85234](https://www.linkedin.com/in/syed-muhammad-rizvi-477b85234) |
-| 📄 **Resume** | [View / Download Resume](https://drive.google.com/file/d/1H7ycwBP9a5nB9sFgPP6aWRVDigvCDLZm/view?usp=drive_link) |
+### ◈ Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### ◈ Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### ◈ Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### ◈ Machine Learning & Data
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### ◈ Databases, Cloud & DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ❯ Featured Projects
+
+<br/>
+
+### 01 — [QuizPro](https://github.com/Syedd18/QuizPro) &nbsp;`Full-Stack` `Auth` `RBAC`
+
+> **Professional Online Quiz Platform** &nbsp;|&nbsp; [`Live →`](https://quiz-pro1-three.vercel.app/)
+
+A production-grade quiz system engineered from the ground up — not a tutorial clone. Implements full role-based access control, a real admin dashboard, and a mobile-first UI built for performance. Every feature is designed with real users in mind: instant feedback, accessible components, and zero fluff.
+
+| Concern | Implementation |
+|---------|---------------|
+| Authentication & RBAC | Supabase Auth with Admin / User role separation and protected route guards |
+| Admin Control Panel | Full quiz lifecycle management — create, edit, publish, and track results |
+| Frontend Architecture | React + TypeScript with Tailwind CSS; Vite for sub-second HMR |
+| Deployment | Zero-downtime CI/CD via Vercel with preview deployments on every PR |
+
+`React` &nbsp; `TypeScript` &nbsp; `Tailwind CSS` &nbsp; `Vite` &nbsp; `Supabase` &nbsp; `PostgreSQL`
+
+<br/>
+
+---
+
+### 02 — [CloudDrive](https://github.com/Syedd18/CloudDrive) &nbsp;`Full-Stack` `Cloud Storage` `ORM`
+
+> **Secure Cloud Storage Platform** &nbsp;|&nbsp; [`Live →`](https://cloud-drive-gamma.vercel.app/)
+
+Not a mock — a real cloud storage system with JWT-based authentication, type-safe database operations via Prisma ORM, and a complete file lifecycle. Upload, preview, full-text search, soft delete, and restore. Designed with a scalable backend architecture that can grow beyond single-tenant use.
+
+| Concern | Implementation |
+|---------|---------------|
+| Authentication | Stateless JWT with refresh token rotation and protected API routes |
+| File Lifecycle | Upload → Instant Preview → Search → Soft Delete → One-click Restore |
+| Database Layer | PostgreSQL + Prisma ORM for fully type-safe, migration-tracked queries |
+| Frontend | Next.js App Router with server components and streaming |
+
+`Next.js` &nbsp; `TypeScript` &nbsp; `Supabase` &nbsp; `PostgreSQL` &nbsp; `Prisma ORM`
+
+<br/>
+
+---
+
+### 03 — [SkyLy](https://github.com/Syedd18/SkyLy) &nbsp;`Full-Stack` `Data Engineering` `FastAPI`
+
+> **Air Quality Intelligence Platform** &nbsp;|&nbsp; [`Live →`](https://skyly01.vercel.app/)
+
+A full-stack AQI intelligence platform built around a modular, cloud-deployment-ready architecture. The FastAPI backend handles data ingestion and processing with clean separation of concerns; the Next.js frontend delivers interactive visualization. The pipeline is architected to slot in ML-based AQI forecasting as a drop-in module — no refactor required.
+
+| Concern | Implementation |
+|---------|---------------|
+| Backend Architecture | Modular FastAPI service with clean router / service / model separation |
+| Data Pipeline | Ingestion → Processing → Structured storage → Live visualization |
+| Frontend | Next.js + React with interactive, Tailwind-based analytics dashboards |
+| Extensibility | ML forecasting hook embedded into the pipeline — ready to activate |
+
+`Python` &nbsp; `FastAPI` &nbsp; `Next.js` &nbsp; `React` &nbsp; `Tailwind CSS`
+
+<br/>
+
+---
+
+### 04 — [Pothole Detection System](https://github.com/Syedd18/pothole-prediction-using-cnn) &nbsp;`ML` `Computer Vision` `CNN`
+
+> **CNN-Based Road Surface Analysis System**
+
+End-to-end ML system for automated pothole detection from road surface imagery. Built a custom CNN architecture in TensorFlow/Keras, with a full preprocessing and data augmentation pipeline, training loop, and quantitative evaluation suite. Ships with a desktop GUI for real-time inference — fully self-contained with no external dependencies.
+
+| Concern | Implementation |
+|---------|---------------|
+| Model Architecture | Custom CNN built from scratch — no pretrained backbone |
+| Data Pipeline | Image preprocessing + augmentation for improved generalization |
+| Evaluation | Precision, Recall, F1-Score with confusion matrix visualization |
+| Inference | Real-time desktop GUI for live, frame-by-frame classification |
+
+`Python` &nbsp; `TensorFlow` &nbsp; `Keras` &nbsp; `CNN` &nbsp; `Computer Vision`
+
+<br/>
+
+---
+
+<br/>
+
+## ❯ Research & Recognition
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="100" align="center">
+<br/>
+<strong>RESEARCH</strong><br/>
+<sub>ISED 2025 · NIT Raipur</sub>
+<br/><br/>
+</td>
+<td>
+<br/>
+<strong>"Intelligent Home Automation System with Weather Forecasting and Alert Integration"</strong><br/>
+Peer-reviewed paper presented at the International Symposium on Electronics & Devices (ISED 2025), hosted at <em>National Institute of Technology, Raipur</em>.
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="100" align="center">
+<br/>
+<strong>🏆 FINALIST</strong><br/>
+<sub>NSSC Hackathon</sub>
+<br/><br/>
+</td>
+<td>
+<br/>
+<strong>NSSC College-Level Hackathon — Finalist</strong><br/>
+Competed among top engineering teams across SRM University.
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="100" align="center">
+<br/>
+<strong>🇮🇳 SELECTED</strong><br/>
+<sub>Smart India Hackathon</sub>
+<br/><br/>
+</td>
+<td>
+<br/>
+<strong>Smart India Hackathon — Internal Selection Round</strong><br/>
+Cleared competitive internal rounds; selected to represent SRM University at the national level.
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## ❯ Education
+
+<br/>
+
+**B.Tech — Computer Science (Information Technology)**<br/>
+SRM University, Kattankulathur, Chennai &nbsp;·&nbsp; `Aug 2023 – May 2027` &nbsp;·&nbsp; **GPA: 9.12 / 10.0**
+
+> Data Structures & Algorithms &nbsp;·&nbsp; Database Management Systems &nbsp;·&nbsp; Operating Systems &nbsp;·&nbsp; Computer Networks &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Artificial Intelligence &nbsp;·&nbsp; Software Engineering
+
+<br/>
+
+---
+
+<br/>
+
+## ❯ Currently Exploring
+
+```
+  Machine Learning       →   Model deployment, MLOps, LLM fine-tuning
+  System Design          →   Distributed systems, caching, API design at scale
+  Data Engineering       →   ETL pipelines, stream processing, analytics infra
+  Cloud-Native Systems   →   Containerization, serverless, observability tooling
+  Computer Vision        →   Object detection, segmentation, real-time inference
+```
+
+<br/>
+
+---
+
+<br/>
+
+## ❯ Let's Build Something
+
+<div align="center">
+
+<br/>
+
+**Actively seeking SWE & AI/ML internship opportunities.**<br/>
+If you're building something meaningful — I'd like to be part of it.
+
+<br/>
+
+[![Email](https://img.shields.io/badge/syedrizvi041@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedrizvi041@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-vert-five-15.vercel.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-rizvi-477b85234)
+&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1H7ycwBP9a5nB9sFgPP6aWRVDigvCDLZm/view?usp=drive_link)
+
+<br/>
 
 </div>
 
@@ -290,8 +303,8 @@ An automated pothole detection system powered by Convolutional Neural Networks. 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
 
-<sub>⚡ Built with precision. Deployed with purpose. Always iterating.</sub>
+<sup>Engineered with intent. Deployed to production. Always improving.</sup>
 
 </div>
