@@ -29,7 +29,7 @@
 ```typescript
 const syed = {
   role      : "CS Undergraduate → Software Engineer & ML Engineer",
-  university: "SRM University, Kattankulatham, Chennai",
+  university: "SRM University, Chennai",
   gpa       : "9.12 / 10.0",
   batch     : "2023 – 2027",
   domains   : ["Full-Stack Development", "Machine Learning", "Cloud-Native Systems"],
