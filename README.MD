@@ -29,7 +29,7 @@
 ```typescript
 const syed = {
   role      : "CS Undergraduate → Software Engineer & ML Engineer",
-  university: "SRM University, Kattankulathur, Chennai",
+  university: "SRM University, Kattankulatham, Chennai",
   gpa       : "9.12 / 10.0",
   batch     : "2023 – 2027",
   domains   : ["Full-Stack Development", "Machine Learning", "Cloud-Native Systems"],
@@ -70,9 +70,9 @@ CS undergrad who builds things that go to production — not just demos. My work
       <h4 align="center">⬡ Backend & ML</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       </p>
     </td>
@@ -156,24 +156,25 @@ Full-stack AQI intelligence platform built around a modular, cloud-deployment-re
 
 ---
 
-### 04 — [Pothole Detection System](https://github.com/Syedd18/pothole-prediction-using-cnn) &nbsp;`ML` `Computer Vision` `CNN`
+### 04 — [FinTrack AI](https://github.com/Syedd18/Fintrack) &nbsp;`Full-Stack` `Android` `AI` `DevOps`
 
-> **CNN-Based Road Surface Analysis System**
+> **Real-Time UPI Tracking & Finance Intelligence Platform**
 
-[![Stars](https://img.shields.io/github/stars/Syedd18/pothole-prediction-using-cnn?style=flat-square&color=64FFDA&labelColor=0d1117)](https://github.com/Syedd18/pothole-prediction-using-cnn/stargazers)
-[![Forks](https://img.shields.io/github/forks/Syedd18/pothole-prediction-using-cnn?style=flat-square&color=64FFDA&labelColor=0d1117)](https://github.com/Syedd18/pothole-prediction-using-cnn/network/members)
-[![Last Commit](https://img.shields.io/github/last-commit/Syedd18/pothole-prediction-using-cnn?style=flat-square&color=64FFDA&labelColor=0d1117)](https://github.com/Syedd18/pothole-prediction-using-cnn/commits)
+[![Stars](https://img.shields.io/github/stars/Syedd18/Fintrack?style=flat-square&color=64FFDA&labelColor=0d1117)](https://github.com/Syedd18/Fintrack/stargazers)
+[![Forks](https://img.shields.io/github/forks/Syedd18/Fintrack?style=flat-square&color=64FFDA&labelColor=0d1117)](https://github.com/Syedd18/Fintrack/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/Syedd18/Fintrack?style=flat-square&color=64FFDA&labelColor=0d1117)](https://github.com/Syedd18/Fintrack/commits)
 
-End-to-end ML system for automated pothole detection from road imagery. Custom CNN architecture in TensorFlow/Keras, with a full preprocessing and data augmentation pipeline and a desktop GUI for real-time inference.
+SaaS-quality, end-to-end automated personal finance platform. Intercepts banking SMS alerts on Android, routes them via webhook to a Spring Boot backend, parses transactions in real time using Gemini AI, and pushes instant summaries to a live Next.js dashboard and Telegram.
 
 | Concern | Implementation |
 |---|---|
-| Model Architecture | Custom CNN built from scratch — no pretrained backbone |
-| Data Pipeline | Image preprocessing + augmentation for improved generalization |
-| Evaluation | Precision, Recall, F1-Score with confusion matrix visualization |
-| Inference | Real-time desktop GUI for live, frame-by-frame classification |
+| Android SMS Collector | Native Kotlin BroadcastReceiver with SQLCipher offline queue and WorkManager retry logic |
+| Backend Engine | Spring Boot 3 + JWT/API Key auth; regex + Gemini Pro Flash fallback parser for structured transaction extraction |
+| Dashboard | Next.js 15 + Recharts with real-time balance trends, budget tracking, and a built-in webhook simulator |
+| Notifications | Telegram Bot integration — rich expense receipts pushed instantly on every transaction |
+| Infrastructure | Fully Dockerized: PostgreSQL, Redis, Nginx, Prometheus, Grafana — spun up via a single `docker-compose up` |
 
-`Python` &nbsp; `TensorFlow` &nbsp; `Keras` &nbsp; `CNN` &nbsp; `Computer Vision`
+`Java` &nbsp; `Spring Boot 3` &nbsp; `Kotlin` &nbsp; `Android` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `PostgreSQL` &nbsp; `Docker` &nbsp; `Gemini AI`
 
 ---
 
@@ -188,7 +189,7 @@ End-to-end ML system for automated pothole detection from road imagery. Custom C
 ## ❯ Education
 
 **B.Tech — Computer Science (Information Technology)**
-SRM University, Kattankulathur, Chennai &nbsp;·&nbsp; `Aug 2023 – May 2027` &nbsp;·&nbsp; **GPA: 9.12 / 10.0**
+SRM University, Kattankulatham, Chennai &nbsp;·&nbsp; `Aug 2023 – May 2027` &nbsp;·&nbsp; **GPA: 9.12 / 10.0**
 
 > DSA &nbsp;·&nbsp; DBMS &nbsp;·&nbsp; Operating Systems &nbsp;·&nbsp; Computer Networks &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; AI &nbsp;·&nbsp; Software Engineering
 
