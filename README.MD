@@ -52,7 +52,7 @@ CS undergrad who builds things that go to production — not just demos. My work
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/><br/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       </p>
     </td>
     <td valign="top" width="25%">
@@ -60,7 +60,7 @@ CS undergrad who builds things that go to production — not just demos. My work
       <p align="center">
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIi8+PHBhdGggZD0iTTEyIDJ2MjBNMiAxMmgyME01IDVsMTQgMTRNMTkgNUw1IDE5IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMSIvPjxwYXRoIGQ9Ik0xMiAxMkwyMCA4QTkgOSAwIDAgMSAyMSAxMnoiIGZpbGw9IiNmZmYiLz48L3N2Zz4="/><br/>
         <sub>EDA · Preprocessing · Feature Engineering · Geospatial Visualization</sub>
       </p>
     </td>
@@ -69,8 +69,8 @@ CS undergrad who builds things that go to production — not just demos. My work
       <p align="center">
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgZmlsbD0iI2ZmZiI+PGNpcmNsZSBjeD0iMTIiIGN5PSI0IiByPSIyLjUiLz48Y2lyY2xlIGN4PSI2IiBjeT0iMTMiIHI9IjIuNSIvPjxjaXJjbGUgY3g9IjE4IiBjeT0iMTMiIHI9IjIuNSIvPjxjaXJjbGUgY3g9IjMiIGN5PSIyMSIgcj0iMiIvPjxjaXJjbGUgY3g9IjkiIGN5PSIyMSIgcj0iMiIvPjwvZz48cGF0aCBkPSJNMTIgNEw2IDEzTTEyIDRsNiA5TTYgMTNsLTMgOE02IDEzbDMgOCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIvPjwvc3ZnPg=="/><br/>
         <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/><br/>
         <sub>Deep Learning · LLMs · Prompt Engineering</sub>
       </p>
@@ -79,7 +79,7 @@ CS undergrad who builds things that go to production — not just demos. My work
       <h4 align="center">⬡ Tools & Core CS</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iMTIiIHk9IjEzIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjExIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZmIj5hd3M8L3RleHQ+PHBhdGggZD0iTTMgMTdRMTIgMjIgMjEgMTciIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGOTkwMCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48cGF0aCBkPSJNMTggMTZsMyAxLTEgMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY5OTAwIiBzdHJva2Utd2lkdGg9IjEuNSIvPjwvc3ZnPg=="/><br/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
